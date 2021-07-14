@@ -2,7 +2,7 @@
 - 😡 I’m interested in sexual content
 - 🥵 I’m currently learning ten billions of languages
 - 😈 I’m looking to collaborate on Discord > Cypher'AR-Jי#9999
-- 👹 How to reach me @CypherNSA
+- 👹 How to reach me From [@CypherNSA](https://twitter.com/CypherNSA)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CypherNSA&theme=midnight-purple&show_icons=true&hide_border=true">
