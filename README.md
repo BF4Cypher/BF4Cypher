@@ -1,9 +1,7 @@
-<center>
-  FishaLand Owner
-  <p>soon</p>
-</center>
-
-
+<p style="text-align:center">
+  FishaLand Owner.<br>
+  soon.....
+</p>
 
 
 - 🤬 Hi, I’m @CypherNSA
