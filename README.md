@@ -13,10 +13,10 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>HTML Image as link</title>
+      
    </head>
    <body>
-      The following image works as a link:<br>
+     
       <a href="https://discord.gg/brigadefantome">
          <img alt="Qries" src="https://media.discordapp.net/attachments/865037721972899850/865055211353931806/MOSHED-2021-7-15-4-20-23.gif"
          width=150" height="70">
