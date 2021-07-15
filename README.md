@@ -10,6 +10,22 @@
 - 😈 I’m looking to collaborate on Discord > Cypher'AR-Jי#9999
 - 👹 How to reach me From [@CypherNSA](https://twitter.com/CypherNSA)
 
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML Image as link</title>
+   </head>
+   <body>
+      The following image works as a link:<br>
+      <a href="https://discord.gg/brigadefantome">
+         <img alt="Qries" src="https://media.discordapp.net/attachments/865037721972899850/865055211353931806/MOSHED-2021-7-15-4-20-23.gif"
+         width=150" height="70">
+      </a>
+   </body>
+</html>
+
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CypherNSA&theme=midnight-purple&show_icons=true&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CypherNSA&theme=midnight-purple&layout=compact&hide_border=true&langs_count=8&hide=html,css,blade,makefile,batchfile,shell">
