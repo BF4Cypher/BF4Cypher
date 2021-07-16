@@ -7,7 +7,7 @@
 - 🤬 Hi, I’m @CypherNSA
 - 😡 I’m interested in sexual content
 - 🥵 I’m currently learning ten billions of languages
-- 😈 I’m looking to collaborate on Discord > Cypher'AR-Jי#9999
+- 😈 I’m looking to collaborate on Discord > cph#1337
 - 👹 How to reach me From [@BF4Cypher](https://twitter.com/BF4Cypher)
 
 <!DOCTYPE html>
