@@ -15,9 +15,9 @@
    <head>   
    </head>
    <body>
-      <a href="https://discord.gg/juif">
+      <a href="https://discord.gg/brigadefantome">
          <img alt="Qries" src="https://media.discordapp.net/attachments/865037721972899850/865055211353931806/MOSHED-2021-7-15-4-20-23.gif"
-         width=150" height="70">
+         width=500" height="500">
       </a>
    </body>
 </html>
