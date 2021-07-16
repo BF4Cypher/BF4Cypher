@@ -4,7 +4,7 @@
 </p>
 
 
-- 🤬 Hi, I’m @CypherNSA
+- 🤬 Hi, I’m @Cypher
 - 😡 I’m interested in sexual content
 - 🥵 I’m currently learning ten billions of languages
 - 😈 I’m looking to collaborate on Discord > cph#1337
